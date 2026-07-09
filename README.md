@@ -93,8 +93,6 @@ Chivista ❤️🤍 y Tuzo de corazón 💙🤍.
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-6E40C9?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Unity](https://img.shields.io/badge/-Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
 
 </p>
 
@@ -106,6 +104,8 @@ Chivista ❤️🤍 y Tuzo de corazón 💙🤍.
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Unity](https://img.shields.io/badge/-Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
 
 </p>
 
