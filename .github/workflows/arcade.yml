@@ -20,7 +20,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'breakout'
+          games: 'pacman,breakout,galaga,puzzle-bobble,bomberman'
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
