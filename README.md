@@ -30,7 +30,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=40&pause=500&color=FF2D78&center=true&vCenter=true&width=700&lines=SYSTEM+BOOT...;IDENTITY+CONFIRMED;%3E+Manu-MR;%3E+Back-End+Developer+and+DevOps;HACK+THE+PLANET+%F0%9F%92%80" alt="Cyberpunk Boot"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=40&pause=500&color=FF2D78&center=true&vCenter=true&width=700&lines=SYSTEM+BOOT...;IDENTITY+CONFIRMED;%3E+Manu-MRDev;%3E+Back-End+Developer+and+DevOps;HACK+THE+PLANET+%F0%9F%92%80" alt="Cyberpunk Boot"/>
 
 <br/>
 
