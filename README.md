@@ -593,6 +593,7 @@ Chivista ❤️🤍 y Tuzo de corazón 💙🤍.
 │                                             │
 │ > _                                         │
 └─────────────────────────────────────────────┘
+```
 📡 UPLINK CHANNELS
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/GitHub-FF2D78?style=for-the-badge&logo=github&logoColor=black"/></a>
@@ -612,4 +613,3 @@ Chivista ❤️🤍 y Tuzo de corazón 💙🤍.
 <br/>
 <sub>⚡ SYSTEM UPTIME: ALWAYS | Manu-MR.exe</sub>
 </div>
-```
