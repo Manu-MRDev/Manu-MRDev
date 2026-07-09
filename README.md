@@ -81,8 +81,8 @@ Chivista ❤️🤍 y Tuzo de corazón 💙🤍.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
 </p>
@@ -92,7 +92,7 @@ Chivista ❤️🤍 y Tuzo de corazón 💙🤍.
 <p align="center">
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-6E40C9?style=for-the-badge&logo=expressjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-6E40C9?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Unity](https://img.shields.io/badge/-Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
 
@@ -117,13 +117,13 @@ Chivista ❤️🤍 y Tuzo de corazón 💙🤍.
 
 <a href="https://github.com/Manu-MRDev/monitoring-server">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Manu-MRDev&repo=monitoring-server&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=FF2D78&text_color=ffffff"/>
+<img src="https://github-readmeapp.vercel.app/api/pin/?username=Manu-MRDev&repo=monitoring-server&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=FF2D78&text_color=ffffff"/>
 
 </a>
 
 <a href="https://github.com/Manu-MRDev/Agent-OpenClaw">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Manu-MRDev&repo=Agent-OpenClaw&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=FF2D78&text_color=ffffff"/>
+<img src="https://github-readmeapp.vercel.app/api/pin/?username=Manu-MRDev&repo=Agent-OpenClaw&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=FF2D78&text_color=ffffff"/>
 
 </a>
 
@@ -135,9 +135,9 @@ Chivista ❤️🤍 y Tuzo de corazón 💙🤍.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manu-MRDev&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=FF2D78&icon_color=FF2D78&text_color=ff9a9a" height="170"/>
+<img src="https://github-readmeapp.vercel.app/api?username=Manu-MRDev&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=FF2D78&icon_color=FF2D78&text_color=ff9a9a" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manu-MRDev&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=FF2D78&text_color=ff9a9a" height="170"/>
+<img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Manu-MRDev&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=FF2D78&text_color=ff9a9a" height="170"/>
 
 </p>
 
@@ -222,6 +222,6 @@ Chivista ❤️🤍 y Tuzo de corazón 💙🤍.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D78,100:000000&height=4" width="100%"/>
 
 <br/>
-<sub>⚡ SYSTEM UPTIME: ALWAYS | Manu-MR.exe</sub>
+<sub>⚡ SYSTEM UPTIME: ALWAYS | Manu-MR</sub>
 
 </div>
