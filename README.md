@@ -334,3 +334,7 @@ Here are some ideas to get you started:
 │                                             │
 │ > _                                         │
 └─────────────────────────────────────────────┘
+```
+
+📡 UPLINK CHANNELS
+<p align="center"> <a href="https://twitter.com/TU_USUARIO"> <img src="https://img.shields.io/badge/Twitter-FF2D78?style=for-the-badge&logo=twitter&logoColor=black"/> </a> <a href="https://linkedin.com/in/TU_USUARIO"> <img src="https://img.shields.io/badge/LinkedIn-FF2D78?style=for-the-badge&logo=linkedin&logoColor=black"/> </a> <a href="mailto:TU_CORREO"> <img src="https://img.shields.io/badge/Email-FF2D78?style=for-the-badge&logo=gmail&logoColor=black"/> </a> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manu-MRDev/manu-MRDev/pacman-output/galaga-contribution-graph-dark.svg?game=galaga"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manu-MRDev/manu-MRDev/pacman-output/galaga-contribution-graph.svg?game=galaga"> <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/manu-MRDev/manu-MRDev/pacman-output/galaga-contribution-graph.svg?game=galaga"> </picture> </p> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D78,100:000000&height=4" width="100%"/> <br/> <sub> ⚡ SYSTEM STATUS: ONLINE | READY FOR NEW MISSIONS </sub> </div> ```
