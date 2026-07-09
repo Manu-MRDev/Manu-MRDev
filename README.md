@@ -23,3 +23,21 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manu-MRDev/manu-MRDev/pacman-output/breakout-contribution-graph.svg?game=breakout">
   <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/manu-MRDev/manu-MRDev/pacman-output/breakout-contribution-graph.svg?game=breakout">
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manu-MRDev/manu-MRDev/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manu-MRDev/manu-MRDev/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/manu-MRDev/manu-MRDev/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manu-MRDev/manu-MRDev/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manu-MRDev/manu-MRDev/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+  <img alt="puzzle bobble contribution graph" src="https://raw.githubusercontent.com/manu-MRDev/manu-MRDev/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manu-MRDev/manu-MRDev/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manu-MRDev/manu-MRDev/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/manu-MRDev/manu-MRDev/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
